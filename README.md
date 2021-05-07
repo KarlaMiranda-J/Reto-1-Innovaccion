@@ -1,9 +1,29 @@
 # **Conceptos**
 
-- Inteligencia Artificial
+- **API:**
 
-- Nube
+- **Backend:**
+
+- **Computo en la nube:**
     
-    - SaaS
-    - PaaS
-    - IaaS
+    - **IaaS:**
+    - **PaaS:**
+    - **SaaS:**
+
+- **CPU:**
+
+- **Frontend:**
+
+- **GPU:**
+
+- **Inteligencia Artificial:**
+
+- **Kernel:**
+
+- **Memoria RAM:**
+
+- **Memoria ROM:**
+
+- **Sistema operativo:**
+
+![Texto alt](ubicacion\images\nombre.formato)
