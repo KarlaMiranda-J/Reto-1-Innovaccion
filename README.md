@@ -97,7 +97,7 @@
 
         4. **Application:** este nivel encapsula los niveles 5, 6 y 7 del modelo OSI, suministrando aplicaciones de red que se comunican con las capas anteriores. 
 
-            <img src="tcp.png" width="300">
+            <img src="tcp.png" width="400">
 
 ## **Nube**
 
