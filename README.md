@@ -22,11 +22,11 @@
 
     <img src="gpu.png" width="250">
 
-- **Memoria RAM:**
+- **Memoria RAM:** es un tipo de memoria volátil que actúa como puente entre el sistema operativo, software, procesador y otros dispositivos para que estos compartan información entre ellos.
 
     <img src="ram.png" width="250">
 
-- **Memoria ROM:**
+- **Memoria ROM:** a diferencia de la memoria RAM, esta no es volátil, es decir, la información será retenida aunque el ordenador se apague.
 
     <img src="rom.png" width="200">
 
@@ -47,26 +47,23 @@
     - **Bus PCMCIA:** actualmente suelen usarse para conectar el disco duro, la tarjeta de red, etc.
 
     - **Bus MR/AMR:** se trata de una ranura de expansión en la placa base para dispositivos de audio.
+
  
 ## **Sistemas operativos**
 
-- **Sistema operativo:**
+- **Sistema operativo:** es el software que coordina y dirige todos los servicios y aplicaciones que se utilizan en una computadora. Se divide en los siguientes niveles:
 
-    1. **Kernel:**
+    <img src="os.png" width="200">
 
-    2. **Gestión E/S:**
+    1. **Kernel:** es el núcleo del sistema operativo, se encarga de administrar y sincronizar los procesos del mismo.
 
-    3. **Gestión de memoria:**
+    2. **Gestión E/S:** son los controladores necesarios para poder administrar dispositivos externos. Estos reciben o envían información a dichos dispositivos.
 
-    4. **Sistemas de archivos:**
+    3. **Gestión de memoria:** es la administración de ambas, la memoria física y la memoria virtual.
 
-    5. **Interfaz de usuario:**
+    4. **Sistemas de archivos:** el sistema operativo también administra los archivos a través de directorios.
 
-- **API:**
-
-- **Backend:**
-
-- **CapEx:**
+    5. **Interfaz de usuario:** esta es por la cual el sistema operativo se comunica directamente con el usuario.
 
 ## **La nube**
     
@@ -104,4 +101,8 @@
 
 - **OpEx:**
 
-- **Sistema operativo:**
+- **API:**
+
+- **Backend:**
+
+- **CapEx:**
