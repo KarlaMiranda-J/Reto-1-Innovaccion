@@ -65,7 +65,41 @@
 
     5. **Interfaz de usuario:** esta es por la cual el sistema operativo se comunica directamente con el usuario.
 
-## **La nube**
+## **Redes**
+
+- **Red de computadoras:** es la interconexión de un número de sistemas informáticos a través de dispositivos de telecomunicaciones y un medio físico, ya sea alámbrico o inalámbrico. En la actualidad destacan dos modelos: OSI y TCP/IP. 
+
+    - ***Modelo OSI:*** 
+
+        1. **Physical:** se refiere al hardware y define el medio de comunicación (tipo de cable y conectores), los niveles eléctricos de la señal y la velocidad de transmisión.
+
+        2. **Data link:** es la conexión física entre máquinas. En este nivel debe asegurarse la transmisión y recepción sin errores. Solo tiene la capacidad de encaminar paquetes entre nodos de la misma red, esto debido al bridge.
+
+        3. **Network:** este nivel se encarga de llevar los paquetes a su destino, esta vez pudiendo hacerlo entre redes interconectadas mediante router con protocolos de transmisión definidos.
+
+        4. **Transport:** realiza una conexión de extremo a extremo entre los niveles de transporte de las máquinas de origen y destino, subsanando las posibles deficiencias del nivel de red.
+
+        5. **Session:** controla el diálogo entre los usuarios de diferentes máquinas y realiza tareas de sincronización para evitar que ambos extremos realicen una misma operación a la vez, de modo que el tráfico de datos vaya en un solo sentido.
+
+        6. **Presentation:** se ocupa de la representación, compresión y encriptación de la información, es decir, de su codificación.
+
+        7. **Application:** esta última se ocupa de la emulación de terminales, transferencia de ficheros, correo electrónico y más aplicaciones.
+
+            <img src="osi.png" widht="350">
+
+    - ***Modelo TCP/IP:***
+
+        1. **Network:** posibilita el acceso físico a la red y especifíca el tipo de datos que deben enrutarse. Concuerda con los primeros dos niveles del modelo OSI.
+
+        2. **Internet:** es el nivel equivalente al nivel de Red de OSI, proporcionando el paquete de datos y las direcciones IP. Además, engloba protocolos como IP, ARP, ICMP, IGMP, etc.
+
+        3. **Transport:** este nivel permite conocer el estado de transmisión, así como los datos de enrutamiento. También asocia los tipos de aplicación con los tipos de dato, y es el equivalente al cuarto nivel en OSI.
+
+        4. **Application:** este nivel encapsula los niveles 5, 6 y 7 del modelo OSI, suministrando aplicaciones de red que se comunican con las capas anteriores. 
+
+            <img src="tcp.png" width="300">
+
+## **Nube**
 
 - **Computo en la nube:** es un conjunto de servidores remotos alojados en internet. Sirve para almacenar, gestionar y procesar datos.
 
@@ -130,6 +164,10 @@
 
     - **Vertical:** es el crecimiento del hardware del servidor, por tanto, se obtiene aumentando los recursos del mismo y se centra en la capacidad de procesamiento y almacenamiento.
 
-- **CapEx:**
+        <img src="escalabilidad.png" width="200">
 
-- **OpEx:**
+- **CapEx:** el capital expenditure o gasto en capital es la inversión que realiza una empresa para adquirir, mantener o mejorar su activo fijo, como switches, teléfonos o servidores. En este pagas por adelantado, estimando la vida útil de tu equipo. 
+
+    <img src="cap-op.jpg" width="300">
+
+- **OpEx:** los operational expenditures o gastos operacionales son el capital utilizado para mantener o mejorar activos circulantes de la empresa, como el software, aplicaciones en la nube o hardware alquilado. En este pagas por lo que usas.
