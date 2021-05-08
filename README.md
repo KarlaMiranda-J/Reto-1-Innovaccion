@@ -150,6 +150,24 @@
 
     <img src="mlops.png" widht="150">
 
+- ***Ventajas:***
+
+    - **Agilidad:** se refiere a la facilidad de implementación y configuración de esta de a cuerdo a su aplicación.
+    
+    - **Elasticidad:** cuando los recursos se amoldan a las demandas cambiantes de una empresa.
+
+    - **Escalabilidad:** es la capacidad que tiene el sistema de crecer, adaptando su rendimiento al número (en aumento) de usuarios, transacciones, etc. 
+
+        - **Horizontal:** se obtiene aumentando el número de servidores que atenderán las peticiones de manera conjunta (cluster), distribuyendo la carga de trabajo entre todos.
+
+        - **Vertical:** es el crecimiento del hardware del servidor, por tanto, se obtiene aumentando los recursos del mismo y se centra en la capacidad de procesamiento y almacenamiento.
+
+            <img src="escalabilidad.png" width="200">
+
+    - **Fiabilidad:** es la capacidad que tiene de seguir funcionando aún bajo condiciones difíciles.
+
+    - **Recuperación ante desastres:** ls información está respaldada en la nube, además de replicada y distribuida geográficamente.
+
 - ***Infraestructura global:***
 
     - **Regiones:** son conjuntos de centros de datos que se encuentran dentro de un perímetro determinado en el planeta.
@@ -157,16 +175,6 @@
     - **Geografía:** se trata de una zona o mercado donde se encuentran dos o más regiones, respetando los límites de residencia de datos y el cumplimiento normativo.
 
         <img src="inf.svg" widht="300">
-
-- **Elasticidad:** cuando los recursos se amoldan a las demandas cambiantes de una empresa.
-
-- **Escalabilidad:** es la capacidad que tiene el sistema de crecer, adaptando su rendimiento al número (en aumento) de usuarios, transacciones, etc. 
-
-    - **Horizontal:** se obtiene aumentando el número de servidores que atenderán las peticiones de manera conjunta (cluster), distribuyendo la carga de trabajo entre todos.
-
-    - **Vertical:** es el crecimiento del hardware del servidor, por tanto, se obtiene aumentando los recursos del mismo y se centra en la capacidad de procesamiento y almacenamiento.
-
-        <img src="escalabilidad.png" width="200">
 
 - **CapEx:** el capital expenditure o gasto en capital es la inversión que realiza una empresa para adquirir, mantener o mejorar su activo fijo, como switches, teléfonos o servidores. En este pagas por adelantado, estimando la vida útil de tu equipo, como cuando adquieres una nueba computadora personal con determinada cantidad de memoria. 
 
