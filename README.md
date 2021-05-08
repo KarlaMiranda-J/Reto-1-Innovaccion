@@ -4,11 +4,25 @@
 
 - **Backend:**
 
+- **CapEx:**
+
 - **Computo en la nube:**
     
-    - **IaaS:**
-    - **PaaS:**
-    - **SaaS:**
+    - ***Tipos de nube:***
+
+        - **Nube híbrida:**
+
+        - **Nube privada:**
+
+        - **Nube pública:**
+
+    - ***Modelos de servicio:***
+
+        - **IaaS:**
+    
+        - **PaaS:**
+    
+        - **SaaS:**
 
 - **CPU:**
 
@@ -23,6 +37,8 @@
 - **Memoria RAM:**
 
 - **Memoria ROM:**
+
+- **OpEx:**
 
 - **Sistema operativo:**
 
