@@ -2,6 +2,8 @@
 
 - **API:**
 
+- **Azure:**
+
 - **Backend:**
 
 - **CapEx:**
@@ -25,6 +27,14 @@
         - **SaaS:**
 
 - **CPU:**
+
+- **DevOps:**
+
+- **Escalabilidad:**
+
+    - **Horizontal:**
+
+    - **Vertical:**
 
 - **Frontend:**
 
