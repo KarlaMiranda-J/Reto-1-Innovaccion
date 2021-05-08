@@ -66,28 +66,52 @@
     5. **Interfaz de usuario:** esta es por la cual el sistema operativo se comunica directamente con el usuario.
 
 ## **La nube**
-    
-- **Azure:**
 
-- **Computo en la nube:**
+- **Computo en la nube:** es un conjunto de servidores remotos alojados en internet. Sirve para almacenar, gestionar y procesar datos.
 
     - ***Tipos de nube:***
 
-        - **Nube híbrida:**
+        - **Nube privada:** son los servicios de computación en la nube que solo se ofrecen a algunos usuarios, como empresas u organizaciones.
 
-        - **Nube privada:**
+        - **Nube pública:** en este caso, toda la infrestructura es propiedad del proveedor, quien los ofrece al público en general. Un ejemplo de nube pública puede ser Microsoft Azure.
 
-        - **Nube pública:**
+        - **Nube híbrida:** este tipo de nube combina la infraestructura de una nube pública con la de una nube privada, permitiendo que los datos viajen entre ambas.
+
+            <img src="tipos.png" width="290">
 
     - ***Modelos de servicio:***
 
-        - **IaaS:**
+        - **IaaS:** (infraestructura como servicio) en este tipo de servicio es el cliente quien se encarga de la gestión de la infraestructura. El proveedor dará acceso a las características deredes, a las máquinas virtuales y al espacio de almacenamiento.
     
-        - **PaaS:**
+        - **PaaS:** (plataforma como servicio) en este caso, el entorno de desarrollo ya será proporcionado por el proveedor, listo para escribir código de alta calidad y ponerlo en marcha.
     
-        - **SaaS:**
+        - **SaaS:** en el caso de software como servicio, las aplicaciones ya se encuentran en la nube del proveedor, y la conexión se realizará por medio de la web o una API.
+
+            <img src="servicios.png" width="350">
+
+- **Frontend:** 
+
+- **Backend:**
+
+    <img src="front-back.png" width="300">
+
+- **API:** la interfaz de programación de aplicaciones es un conjunto de funciones y procedimientos que se utiliza como capa de abstracción dentro de un software para comunicarse con otro, ya sea una base de datos, un sistema operativo, etc.
+
+    <img src="api.png" width="150">
+
+- **Inteligencia Artificial:**
+
+- **DataOps:**
 
 - **DevOps:**
+
+- **ModelOps:**
+
+- **Regiones:**
+
+- **Geografía**
+
+- **Elasticidad:**
 
 - **Escalabilidad:**
 
@@ -95,14 +119,6 @@
 
     - **Vertical:**
 
-- **Frontend:**
-
-- **Inteligencia Artificial:**
+- **CapEx:**
 
 - **OpEx:**
-
-- **API:**
-
-- **Backend:**
-
-- **CapEx:**
