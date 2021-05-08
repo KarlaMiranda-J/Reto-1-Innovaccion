@@ -112,19 +112,23 @@
 
 - **ModelOps:** está enfocada principalmente en la gestión de la gobernanza y el ciclo de vida de los modelos de inteligencia artificial, por ejemplo, machine learning, reglas, optimización, etc.
 
-    <img src="mlops.png" widht="200">
+    <img src="mlops.png" widht="150">
 
-- **Regiones:**
+- ***Infraestructura global:***
 
-- **Geografía**
+    - **Regiones:** son conjuntos de centros de datos que se encuentran dentro de un perímetro determinado en el planeta.
 
-- **Elasticidad:**
+    - **Geografía:** se trata de una zona o mercado donde se encuentran dos o más regiones, respetando los límites de residencia de datos y el cumplimiento normativo.
 
-- **Escalabilidad:**
+        <img src="inf.svg" widht="300">
 
-    - **Horizontal:**
+- **Elasticidad:** cuando los recursos se amoldan a las demandas cambiantes de una empresa.
 
-    - **Vertical:**
+- **Escalabilidad:** es la capacidad que tiene el sistema de crecer, adaptando su rendimiento al número (en aumento) de usuarios, transacciones, etc. 
+
+    - **Horizontal:** se obtiene aumentando el número de servidores que atenderán las peticiones de manera conjunta (cluster), distribuyendo la carga de trabajo entre todos.
+
+    - **Vertical:** es el crecimiento del hardware del servidor, por tanto, se obtiene aumentando los recursos del mismo y se centra en la capacidad de procesamiento y almacenamiento.
 
 - **CapEx:**
 
