@@ -89,9 +89,10 @@
 
             <img src="servicios.png" width="350">
 
-- **Frontend:** 
 
-- **Backend:**
+- **Frontend:** es la parte de una aplicación con la que interactúan los usuarios, es decir, todo lo que se muestra en pantalla.
+
+- **Backend:** por otro lado, el backend es todo lo que hay detrás de estas aplicaciones, lo que hace que todos los procesos de esta funcionen de manera correcta.
 
     <img src="front-back.png" width="300">
 
@@ -99,13 +100,19 @@
 
     <img src="api.png" width="150">
 
-- **Inteligencia Artificial:**
+- **Inteligencia Artificial:** es la capacidad que tienen algunos sistemas o máquinas para imitar la inteligencia humana, pudiendo realizar tareas y mejorar la forma en que lo hacen de forma iterativa gracias a la información que recopilan.
 
-- **DataOps:**
+- **DataOps:** es una forma de administrar datos, promoviendo la comunicación entre desarrolladores, ingenieros, cientificos, analistas y usuarios para ayudar a que las empresas tomen decisiones basadas en los datos correctos.
 
-- **DevOps:**
+    <img src="data.png" width="250">
 
-- **ModelOps:**
+- **DevOps:** se trata de una metodología para creación de software. Se basa en la integración entre desarrolladores y administradores, permitiendo que la fabricación del mismo sea más rápida y de mayor calidad.
+
+    <img src="dev.png" width="450">
+
+- **ModelOps:** está enfocada principalmente en la gestión de la gobernanza y el ciclo de vida de los modelos de inteligencia artificial, por ejemplo, machine learning, reglas, optimización, etc.
+
+    <img src="mlops.png" widht="200">
 
 - **Regiones:**
 
