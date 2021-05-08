@@ -4,7 +4,7 @@
 
 - **Placa madre:** 
 
-    <img src="Placa-madre.png" width="300">
+    <img src="Placa-madre.png" width="300"> Se trata de lalalal
 
 
 - **API:**
