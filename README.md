@@ -137,11 +137,11 @@
 
 - **Inteligencia Artificial:** es la capacidad que tienen algunos sistemas o máquinas para imitar la inteligencia humana, pudiendo realizar tareas y mejorar la forma en que lo hacen de forma iterativa gracias a la información que recopilan.
 
-- **DataOps:** es una forma de administrar datos, promoviendo la comunicación entre desarrolladores, ingenieros, cientificos, analistas y usuarios para ayudar a que las empresas tomen decisiones basadas en los datos correctos.
+- **DataOps:** es la orquestación de personas, procesos y tecnología para proporcionar datos de manera rápida y confiable.
 
     <img src="data.png" width="250">
 
-- **DevOps:** se trata de una metodología para creación de software. Se basa en la integración entre desarrolladores y administradores, permitiendo que la fabricación del mismo sea más rápida y de mayor calidad.
+- **DevOps:** se trata de una metodología para creación de software. Se basa en la integración entre personas, procesos y tecnología para la entrega del mismo.
 
     <img src="dev.png" width="450">
 
