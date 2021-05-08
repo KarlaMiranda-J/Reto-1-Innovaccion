@@ -2,14 +2,16 @@
 
 - **API:**
 
-- **Azure:**
-
 - **Backend:**
 
 - **CapEx:**
 
-- **Computo en la nube:**
+## **La nube**
     
+- **Azure:**
+
+- **Computo en la nube:**
+
     - ***Tipos de nube:***
 
         - **Nube híbrida:**
