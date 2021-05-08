@@ -1,5 +1,12 @@
 # **Conceptos**
 
+## **Arquitectura de computadoras**
+
+- **Placa madre:** 
+
+    <img src="Placa-madre.png" width="300">
+
+
 - **API:**
 
 - **Backend:**
