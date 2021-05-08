@@ -101,6 +101,8 @@
 
 ## **Nube**
 
+- **Azure:** es una plataforma de computación en la nube creado por Microsoft, que permite compilar, implementar y administrar aplicaciones en una red global de centros de datos.
+
 - **Computo en la nube:** es un conjunto de servidores remotos alojados en internet. Sirve para almacenar, gestionar y procesar datos.
 
     - ***Tipos de nube:***
