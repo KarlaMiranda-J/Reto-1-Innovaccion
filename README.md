@@ -181,8 +181,10 @@
 
 - **Máquina virtual:** es un software que funciona como emulador de un ordenador, dentro de otro ordenador.
 
-- **CapEx:** el capital expenditure o gasto en capital es la inversión que realiza una empresa para adquirir, mantener o mejorar su activo fijo, como switches, teléfonos o servidores. En este pagas por adelantado, estimando la vida útil de tu equipo, como cuando adquieres una nueba computadora personal con determinada cantidad de memoria. 
+- ***Gastos:***
 
-    <img src="cap-op.jpg" width="300">
+    - **CapEx:** el capital expenditure o gasto en capital es la inversión que realiza una empresa para adquirir, mantener o mejorar su activo fijo, como switches, teléfonos o servidores. En este pagas por adelantado, estimando la vida útil de tu equipo, como cuando adquieres una nueba computadora personal con determinada cantidad de memoria. 
 
-- **OpEx:** los operational expenditures o gastos operacionales son el capital utilizado para mantener o mejorar activos circulantes de la empresa, como el software, aplicaciones en la nube o hardware alquilado. En este pagas por lo que usas, como cuando solicitas mayor espacio de almacenamiento en la nube.
+        <img src="cap-op.jpg" width="300">
+
+    - **OpEx:** los operational expenditures o gastos operacionales son el capital utilizado para mantener o mejorar activos circulantes de la empresa, como el software, aplicaciones en la nube o hardware alquilado. En este pagas por lo que usas, como cuando solicitas mayor espacio de almacenamiento en la nube.
