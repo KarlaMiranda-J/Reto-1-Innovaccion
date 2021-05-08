@@ -48,7 +48,6 @@
 
     - **Bus MR/AMR:** se trata de una ranura de expansión en la placa base para dispositivos de audio.
 
- 
 ## **Sistemas operativos**
 
 - **Sistema operativo:** es el software que coordina y dirige todos los servicios y aplicaciones que se utilizan en una computadora. Se divide en los siguientes niveles:
@@ -85,7 +84,7 @@
 
         7. **Application:** esta última se ocupa de la emulación de terminales, transferencia de ficheros, correo electrónico y más aplicaciones.
 
-            <img src="osi.png" widht="350">
+            <img src="osi.png">
 
     - ***Modelo TCP/IP:***
 
@@ -148,7 +147,7 @@
 
 - **ModelOps:** está enfocada principalmente en la gestión de la gobernanza y el ciclo de vida de los modelos de inteligencia artificial, por ejemplo, machine learning, reglas, optimización, etc.
 
-    <img src="mlops.png" widht="100">
+    <img src="mlops.png" width="400">
 
 - ***Ventajas:***
 
@@ -174,7 +173,13 @@
 
     - **Geografía:** se trata de una zona o mercado donde se encuentran dos o más regiones, respetando los límites de residencia de datos y el cumplimiento normativo.
 
-        <img src="inf.svg" widht="300">
+        <img src="inf.svg">
+
+- **Hypervisor:** es un software que crea, gestiona y ejecuta máquinas virtuales asilándolas del sistema operativo del ordenador.
+
+    <img src="vm.png" width="350">
+
+- **Máquina virtual:** es un software que funciona como emulador de un ordenador, dentro de otro ordenador.
 
 - **CapEx:** el capital expenditure o gasto en capital es la inversión que realiza una empresa para adquirir, mantener o mejorar su activo fijo, como switches, teléfonos o servidores. En este pagas por adelantado, estimando la vida útil de tu equipo, como cuando adquieres una nueba computadora personal con determinada cantidad de memoria. 
 
