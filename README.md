@@ -148,7 +148,7 @@
 
 - **ModelOps:** está enfocada principalmente en la gestión de la gobernanza y el ciclo de vida de los modelos de inteligencia artificial, por ejemplo, machine learning, reglas, optimización, etc.
 
-    <img src="mlops.png" widht="150">
+    <img src="mlops.png" widht="100">
 
 - ***Ventajas:***
 
