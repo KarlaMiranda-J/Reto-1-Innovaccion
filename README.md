@@ -100,8 +100,6 @@
 
 ## **Nube**
 
-- **Azure:** es una plataforma de computación en la nube creado por Microsoft, que permite compilar, implementar y administrar aplicaciones en una red global de centros de datos.
-
 - **Computo en la nube:** es un conjunto de servidores remotos alojados en internet. Sirve para almacenar, gestionar y procesar datos.
 
     - ***Tipos de nube:***
@@ -188,3 +186,19 @@
         <img src="cap-op.jpg" width="300">
 
     - **OpEx:** los operational expenditures o gastos operacionales son el capital utilizado para mantener o mejorar activos circulantes de la empresa, como el software, aplicaciones en la nube o hardware alquilado. En este pagas por lo que usas, como cuando solicitas mayor espacio de almacenamiento en la nube.
+
+## **Azure**
+
+- **Azure:** es una plataforma de computación en la nube creado por Microsoft, que permite compilar, implementar y administrar aplicaciones en una red global de centros de datos.
+
+    - ***Estructura organizativa:***
+
+        1. **Grupos de administración:** ayudan a administrar el acceso, las directivas y y el cumplimiento de varias suscripciones.
+
+        2. **Suscripciones:** agrupa las cuentas de usuario y los recursos que han creado, además de tener límites o cuotas en la cantidad de recursos que pueden crear o utilizar.
+
+        3. **Grupos de recursos:** actúan como contenedor lógico en el que se implementan y administran recursos de Azure.
+
+        4. **Recursos:** son instancias de servicios que puede crear
+
+            <img src="jer.png" width="350">
