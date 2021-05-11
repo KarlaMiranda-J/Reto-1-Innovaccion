@@ -193,12 +193,16 @@
 
     - ***Estructura organizativa:***
 
+        <img src="jer.png" width="450">
+
         1. **Grupos de administración:** ayudan a administrar el acceso, las directivas y y el cumplimiento de varias suscripciones.
 
         2. **Suscripciones:** agrupa las cuentas de usuario y los recursos que han creado, además de tener límites o cuotas en la cantidad de recursos que pueden crear o utilizar.
 
+            - **Límite de facturación:** determina cómo se factura una cuenta de Azure, de modo que se pueda organizar y administrar costos.
+
+            - **Límite de control de acceso:** se aplican las directivas de administración a nivel suscripción, de modo que se puedan crear suscripciones independientes para las diferentes áreas de la organización, permitiendo así administrar y controlar el acceso a los recursos de suscripciones específicas.
+
         3. **Grupos de recursos:** actúan como contenedor lógico en el que se implementan y administran recursos de Azure.
 
-        4. **Recursos:** son instancias de servicios que puede crear
-
-            <img src="jer.png" width="350">
+        4. **Recursos:** son instancias de servicios que puede crear. Elementos administrables que están disponibles mediante Azure.
